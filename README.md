@@ -1,7 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahirashehzadi&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahirashehzadi&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahirashehzadi&theme=solarized_dark)
-
 Tahira Shehzadi is currently pursuing a PhD degree with the German Research Center for Artificial Intelligence (DFKI GmbH) and the Technical University of Kaiserslautern. Her research interests include deep learning for computer vision, specifically in 3D reconstruction.
 <p align="left"><img src=https://komarev.com/ghpvc/?username=tahirashehzadi&color=dc143c></p>
 
