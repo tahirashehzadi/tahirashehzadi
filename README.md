@@ -6,7 +6,7 @@ I’m currently pursuing a PhD degree with the German Research Center for Artifi
     🌱 I like to hangout with my friends.
     📫 How to reach me: tahira.shehzadi@dfki.de
 
-    <p align="left"><img src=https://komarev.com/ghpvc/?username=tahirashehzadi&color=dc143c></p>
+<p align="left"><img src=https://komarev.com/ghpvc/?username=tahirashehzadi&color=dc143c></p>
 
 
 
