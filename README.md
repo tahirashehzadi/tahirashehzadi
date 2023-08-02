@@ -1,6 +1,6 @@
 Hello! 👋
 
-I’m currently pursuing a PhD degree with the German Research Center for Artificial Intelligence (DFKI GmbH) and the Technical University of Kaiserslautern.
+I’m currently pursuing a PhD degree with the German Research Center for Artificial Intelligence (DFKI GmbH) and the Technical University of Kaiserslautern, Germany.
 
     🔭 I’m currently working on semi-supervised learning and object detection with transformers.
     🌱 I like to hangout with my friends.
