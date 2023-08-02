@@ -1,5 +1,13 @@
-Tahira Shehzadi is currently pursuing a PhD degree with the German Research Center for Artificial Intelligence (DFKI GmbH) and the Technical University of Kaiserslautern. Her research interests include deep learning for computer vision, specifically in 3D reconstruction.
-<p align="left"><img src=https://komarev.com/ghpvc/?username=tahirashehzadi&color=dc143c></p>
+Hello! 👋
+
+I’m currently pursuing a PhD degree with the German Research Center for Artificial Intelligence (DFKI GmbH) and the Technical University of Kaiserslautern.
+
+    🔭 I’m currently working on semi-supervised learning and object detection with transformers.
+    🌱 I like to hangout with my friends.
+    📫 How to reach me: tahira.shehzadi@dfki.de
+
+    <p align="left"><img src=https://komarev.com/ghpvc/?username=tahirashehzadi&color=dc143c></p>
+
 
 
 ![]()
