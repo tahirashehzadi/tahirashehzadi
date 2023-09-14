@@ -14,4 +14,4 @@ I’m currently pursuing a PhD degree with the German Research Center for Artifi
 ###  Publications
 Year | Conf | Title | Paper 
 --- | --- | --- | --- 
-2023 | ICDAR | Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer | [paper](https://arxiv.org/abs/2305.02769](https://link.springer.com/content/pdf/10.1007/978-3-031-41679-8_4.pdf?pdf=inline%20link)https://link.springer.com/content/pdf/10.1007/978-3-031-41679-8_4.pdf?pdf=inline%20link) 
+2023 | ICDAR | Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer | [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-41679-8_4.pdf?pdf=inline%20link) 
