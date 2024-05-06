@@ -14,5 +14,6 @@ I’m currently pursuing a PhD degree with the German Research Center for Artifi
 ###  Publications
 Year | Conf | Title | Paper 
 --- | --- | --- | --- 
+2024 | ICDAR | A Hybrid Approach for Document Layout Analysis in Document images <br /> Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer  | [paper](https://arxiv.org/abs/2404.17888)<br />  [paper](https://arxiv.org/abs/2405.00187) 
 2024 | CVPR | Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection | [paper](https://arxiv.org/abs/2404.01819) 
 2023 | ICDAR | Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer | [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-41679-8_4.pdf?pdf=inline%20link) 
